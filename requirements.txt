@@ -3,3 +3,5 @@ numpy
 matplotlib
 jupyter
 pytest
+psycopg[binary]
+python-dotenv
